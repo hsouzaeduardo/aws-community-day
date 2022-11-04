@@ -1,0 +1,15 @@
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\bin\Debug\net6.0\SQS.exe
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\bin\Debug\net6.0\SQS.deps.json
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\bin\Debug\net6.0\SQS.runtimeconfig.json
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\bin\Debug\net6.0\SQS.dll
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\bin\Debug\net6.0\SQS.pdb
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.csproj.AssemblyReference.cache
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.AssemblyInfoInputs.cache
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.AssemblyInfo.cs
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.csproj.CoreCompileInputs.cache
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.dll
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\refint\SQS.dll
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.pdb
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\SQS.genruntimeconfig.cache
+F:\projetos\SQS\aws-community-day\Mensageria\SQS\obj\Debug\net6.0\ref\SQS.dll
